@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asmv1:assemblyIdentity name="TaskPad.exe" version="1.0.0.0" publicKeyToken="e8b2e85f77c9ab5f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="GWayDog.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TaskPad" version="1.0.0.22829" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TaskPad.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TaskPad.exe" size="53248">
+      <assemblyIdentity name="TaskPad" version="1.0.0.22829" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>7NWxcKyCs4S82ruuxPh9GUEA8mQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Docs\TaskPadHelp.htm" size="5506">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>wiQGqU0FrVmdJwBSkoVmOX33ZY4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Docs\TaskPadLicense.htm" size="2121">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>lSg/aONuAxGjljmZAWOI5SZ+fg0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Docs\TaskPadScreenShotLocked.JPG" size="25672">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>hDg/w2xwTSHqPT1SxMj+xyj10sg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Docs\TaskPadScreenShotSizeable.JPG" size="27345">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>UGd4wk0z2lnjfqMY+v8FHPZ5SnQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="GWayDog.ico" size="1078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>CRC4gYSeqWQNaQqDa/yzvYPY2/E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TaskPad.exe.config" size="2107">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>/mcmRPbxB88c+OR0s0APhyjne+0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TaskPad.rtf" size="403">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>HAO21HB2vbt7yR9p/EOb3/ODDBE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=GALLOWAY2\Jason" issuerKeyHash="a935a15ec566e050b928e36577394101234eb134" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>6Y5H3mazUUjzYA8Pm6ghrK2qJKI=</DigestValue></Reference></SignedInfo><SignatureValue>d7NWow/NDftyMo+NiHgTSK1NYgZ5ZN1qfy4LjRwWTbpt8gwTyHiKRsZgt6U6p8lGWL7uR/ihDb2odq9BIeQI2kihbIH/hC+jqczdNrOWuIAyqOCE6vzqUJtZTAHVMt54jBfSuMjHOu0ZfJHdq7l2eCo2QOoyAlQ7Y7d7Xm+SnuE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>rvkuCe/D8ooR2Mp/GkVf5eIuLGRuB6HSlwZ7ZmUb2S4HfFIFRFQwWwoSPYoqzh+Qm9/odbrEIfIfqZAHI4GY0Fn4C/3ISLQy/MVRSCCLY1q3HpUpV2iZmTCkvKI9GShnVDTfck72xOQnjnv/pIBxVdLyw7OH3c+wwyFjGMVy6QU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="a224aaadac21a89b0f0f60f34851b366de478ee9" Description="" Url=""><as:assemblyIdentity name="TaskPad.exe" version="1.0.0.0" publicKeyToken="e8b2e85f77c9ab5f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=GALLOWAY2\Jason</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>61Z7QLMOFGM2hBcy4ofZW4DytyI=</DigestValue></Reference></SignedInfo><SignatureValue>qx0tZz2f9lOZS/+1jJJeoeWetkCSvsfCYtcFa8DtCvOuFkugiBFwg6d3douzci+wQWRkbbvpLle/dn3MEp9hUIOdYxilzgrBE0Gac15lFiAo7n2oblszEpO93KN8klDXx7I9LvNA5eb3QOnbhvXnnfo+vvRJX37+YrXhgJHAst4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>rvkuCe/D8ooR2Mp/GkVf5eIuLGRuB6HSlwZ7ZmUb2S4HfFIFRFQwWwoSPYoqzh+Qm9/odbrEIfIfqZAHI4GY0Fn4C/3ISLQy/MVRSCCLY1q3HpUpV2iZmTCkvKI9GShnVDTfck72xOQnjnv/pIBxVdLyw7OH3c+wwyFjGMVy6QU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATqgAwIBAgIQQxBkCstjQqdFKsr/suyTNTAJBgUrDgMCHQUAMCkxJzAlBgNVBAMeHgBHAEEATABMAE8AVwBBAFkAMgBcAEoAYQBzAG8AbjAeFw0wOTA4MjQwNjIyMDlaFw0xMDA4MjQxMjIyMDlaMCkxJzAlBgNVBAMeHgBHAEEATABMAE8AVwBBAFkAMgBcAEoAYQBzAG8AbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEArvkuCe/D8ooR2Mp/GkVf5eIuLGRuB6HSlwZ7ZmUb2S4HfFIFRFQwWwoSPYoqzh+Qm9/odbrEIfIfqZAHI4GY0Fn4C/3ISLQy/MVRSCCLY1q3HpUpV2iZmTCkvKI9GShnVDTfck72xOQnjnv/pIBxVdLyw7OH3c+wwyFjGMVy6QUCAwEAATAJBgUrDgMCHQUAA4GBADk3jiCxFJZO59WgLffUCbW4nbiyN0EplxfsFmKn/vmYEoNq92qEg09dLPsLeeeTFmo2bqKoN2nO5fO0m3AD08K4gORNkO06Ytt+mMNLYWru2T8I0RlccK8nbnWFitfQEh/CZvolfnfkga4IeSkd70q/QceC4JQ/6hbe2qhUif0E</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

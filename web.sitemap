@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+	<siteMapNode title="Home" url="Default.aspx">
+		<siteMapNode title="Resume" url="Resume.aspx" />
+		<!--<siteMapNode title="Links" url="Links.aspx" />-->
+		<siteMapNode title="Albums" url="Albums.aspx" >
+			<siteMapNode title="Photos" url="Photos.aspx" >
+				<siteMapNode title="Details" url="Details.aspx" />
+			</siteMapNode>
+    </siteMapNode>
+    <siteMapNode title="DevelopersCorner" url="DevelopersCorner.aspx">
+      <siteMapNode title="CodeExamplesAndSoftware" url="CodeExamplesAndSoftware.aspx" />
+      <siteMapNode title="TipsTricksAndLinks" url="TipsTricksAndLinks.aspx" />
+    </siteMapNode>
+    <!--<siteMapNode title="Register" url="Register.aspx" />-->
+    
+    <!-- Begin of Admin Menu Items -->
+    <siteMapNode title="Manage" url="Admin/Manage.aspx" >
+      <siteMapNode title="Albums" url="Admin/Albums.aspx" >
+        <siteMapNode title="Photos" url="Admin/Photos.aspx" >
+          <siteMapNode title="Details" url="Admin/Details.aspx" />
+        </siteMapNode>
+      </siteMapNode>
+        <siteMapNode title="Site Content" url="Admin/Content.aspx" />
+        <siteMapNode title="Manage Users" url="Admin/Users.aspx" />
+      </siteMapNode>
+    <siteMapNode title="Stats" url="Admin/Stats.aspx" />
+    <!-- End of Admin Menu Items -->
+    
+  </siteMapNode>
+</siteMap>

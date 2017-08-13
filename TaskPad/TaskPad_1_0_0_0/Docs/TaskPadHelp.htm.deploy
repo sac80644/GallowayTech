@@ -1,0 +1,99 @@
+<html>
+<head>
+<title>GallowayTech | TaskPad</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<p align="center"><font size="3" face="Arial, Helvetica, sans-serif"><b><a href="http://GallowayTech.com/Default.aspx?Product=TaskPad&Version=1.0">GallowayTech.com</a> 
+  - TaskPad Version 1.0 </b></font></p>
+<p><font face="Arial, Helvetica, sans-serif"><b><font size="2">Introducing TaskPad<br>
+  </font></b><font size="2">TaskPad is a simple application for keeping yourself 
+  and others organized. Time management can often be a challenge, and with busy 
+  lives sometimes we just forget to do even the simple things, like pick up the 
+  milk on the way home. Now, as you shut down your PC before you leave the office, 
+  TaskPad will be there to remind you. It sits on top of your desktop while not 
+  getting in the way of your work. You can organize your tasks in outline style 
+  or use different font styles to draw your attention to more important tasks. 
+  And, TaskPad is so small and simple you won't have a hard time using it.</font></font></p>
+<table width="60%" border="0">
+  <tr>
+    <td valign="top">
+      <div align="center"><img src="TaskPadScreenShotLocked.JPG" width="270" height="444"></div>
+    </td>
+    <td>
+      <div align="center"><img src="TaskPadScreenShotSizeable.JPG" width="276" height="468"></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div align="center"><b><font face="Arial, Helvetica, sans-serif" size="2">&quot;Locked&quot; 
+        Mode </font></b></div>
+    </td>
+    <td>
+      <div align="center"><b><font face="Arial, Helvetica, sans-serif" size="2">Sizeable 
+        Mode </font></b></div>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p><b><font face="Arial, Helvetica, sans-serif" size="2">Behavior</font></b></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">TaskPad initially starts 
+  up in the upper right side of your screen. From there, you may move or resize 
+  it as you like. It will remmeber where you left if for the next time you use 
+  it. Just move the mouse over any of the sides, top or bottom and the borders 
+  will change to sizeable borders. When done, just click inside or off of TaskPad 
+  and it will &quot;lock&quot; onto its position.</font></p>
+<p><font face="Arial, Helvetica, sans-serif"><b><font size="2">How to Use TaskPad:</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif"><b><font size="2">Hot Keys</font></b></font></p>
+<ol>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Ctrl + S (Saves Task 
+    File)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Ctrl + B (Set Bullet 
+    List)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Ctrl + Right (Increase 
+    Indent)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Ctrl + Left (Decrease 
+    Indent)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Ctrl + Tab (Tab)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Usual hot key combos 
+    for text apply; (Ctrl+ A, C, V, X, Y, Z) perform select all, copy, paste, 
+    cut, redo and undo respectively.</font></li>
+</ol>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><b>Right Click Menu</b></font></p>
+<ol>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Cut</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Copy</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Paste</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Bullet</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Decrease Indent</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Increase Indent</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Bold (Bolds Selected 
+    Text) </font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Italic (Italicizes Selected 
+    Text)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Regular (Removed Font 
+    Styles)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Strikeout (Strikes Out 
+    Selected Text) </font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Underline (Underlines 
+    Selected Text)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Red (Toggles Red Font 
+    Color)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Save (Saves Changes to 
+    Task File)</font></li>
+  <li><font face="Arial, Helvetica, sans-serif" size="2">Help (Displays Help File)</font><font face="Arial, Helvetica, sans-serif"><br>
+    </font></li>
+</ol>
+<p><b><font face="Arial, Helvetica, sans-serif" size="2">Support and Licensing</font></b></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">This software is provided 
+  free of charge and thus support is best intention only. Please direct your questions, 
+  comments, etc. to <a href="mailto:TaskPad@GallowayTech.com">TaskPad@GallowayTech.com</a> 
+  or visit GallowayTech.com for future upgrades, support documents, etc. The freeware 
+  license for this software should have been packaged with the software and should 
+  be viewed <a href="TaskPadLicense.htm">here</a>.</font></p>
+<hr>
+<p align="center"><font face="Arial, Helvetica, sans-serif" size="2">Copyright 
+  &copy; 2009, GallowayTech. All rights reserved.</font></p>
+</body>
+</html>
